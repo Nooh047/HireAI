@@ -1,4 +1,4 @@
-# smart_resume_parser
+# smart_resume_screening_app
 
 A new Flutter project.
 
